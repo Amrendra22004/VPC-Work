@@ -28,7 +28,7 @@
 ## over all resource map of VPC
 ![image](https://github.com/user-attachments/assets/47a4ed2f-f5df-4186-8045-2daa1e714d3f)
 
-### launch an EC2 Instances in any subnet(public-subnet) of this VPC:-
+### launch an EC2 Instances in any subnet(public and private -subnet) of this VPC:-
 ![image](https://github.com/user-attachments/assets/f60a5422-3595-4722-8430-c85474bcc2b9)
 
 ![image](https://github.com/user-attachments/assets/b1af9f61-0d51-422e-a061-98619832aa2b)
