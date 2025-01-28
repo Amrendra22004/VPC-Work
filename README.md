@@ -37,7 +37,9 @@
 ![image](https://github.com/user-attachments/assets/20e7231a-5941-4c77-9658-4826a1e79d96)
 
 ### 6. Adding Virtual private gateway and attach it with this VPC:-
-![image](https://github.com/user-attachments/assets/4b0eb622-83a0-4458-a9e9-5a38b45a0d98)
+![image](https://github.com/user-attachments/assets/a75f002d-60bc-47c9-a498-727d12de02fe)
+
+
 
 
 
