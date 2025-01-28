@@ -15,8 +15,22 @@
 ### 4. Set Up Route Tables
 ![image](https://github.com/user-attachments/assets/5f517a59-edef-447a-ae04-4c6eaec806b3)
 
-=> subnet associations
+![image](https://github.com/user-attachments/assets/279b9245-6463-4964-8473-2239b34d19aa)
 
-![image](https://github.com/user-attachments/assets/a0acc046-6d35-4740-8e94-1c5be304d9f1)
+-> subnet associations
 
+![image](https://github.com/user-attachments/assets/99e4dc47-b39c-4a97-9432-23c5dfef7c4f)
+
+### 5. Configure Security Groups
+
+![image](https://github.com/user-attachments/assets/d2500fe0-c8ab-44dc-8ab8-c80f2aa93b64)
+
+## over all resource map of VPC
+![image](https://github.com/user-attachments/assets/47a4ed2f-f5df-4186-8045-2daa1e714d3f)
+
+### launch an EC2 Instances in any subnet(public-subnet) of this VPC:-
+![image](https://github.com/user-attachments/assets/f60a5422-3595-4722-8430-c85474bcc2b9)
+
+![image](https://github.com/user-attachments/assets/b1af9f61-0d51-422e-a061-98619832aa2b)
+![image](https://github.com/user-attachments/assets/34fb8f2b-222b-4910-a5b1-bc0598b4d2c7)
 
