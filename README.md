@@ -17,6 +17,7 @@
 ### 4. Set Up Route Tables
 ![image](https://github.com/user-attachments/assets/5f517a59-edef-447a-ae04-4c6eaec806b3)
 
+--> Attach Internet gateway to public subnet route table
 ![image](https://github.com/user-attachments/assets/279b9245-6463-4964-8473-2239b34d19aa)
 
 -> subnet associations
