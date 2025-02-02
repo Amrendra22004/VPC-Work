@@ -37,12 +37,13 @@
 ![image](https://github.com/user-attachments/assets/b1af9f61-0d51-422e-a061-98619832aa2b)
 ![image](https://github.com/user-attachments/assets/34fb8f2b-222b-4910-a5b1-bc0598b4d2c7)
 ### ->Install Apache HTTP Server on EC2 Instances
-```
+```sh
+sudo apt update
 sudo apt install apache2 -y
 ```
 
 #### ->Start and Enable Apache
-```
+```sh
 sudo systemctl start apache2
 sudo systemctl enable apache2
 ```
