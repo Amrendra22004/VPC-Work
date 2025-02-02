@@ -1,5 +1,7 @@
 # VPC-Work
 ## Here is the process of creating VPC in AWS with 2 public and private subnet
+![photo_6107379375801486380_x](https://github.com/user-attachments/assets/feeb8ef0-e750-4948-b039-0cb66e11321b)
+
 ### 1. Create a VPC
 ![image](https://github.com/user-attachments/assets/f237fd4d-644d-4e30-94ff-e829be2556b7)
 
