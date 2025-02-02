@@ -36,10 +36,17 @@
 
 ![image](https://github.com/user-attachments/assets/b1af9f61-0d51-422e-a061-98619832aa2b)
 ![image](https://github.com/user-attachments/assets/34fb8f2b-222b-4910-a5b1-bc0598b4d2c7)
-->Install Apache HTTP Server
+### ->Install Apache HTTP Server on EC2 Instances
 ```
 sudo apt install apache2 -y
 ```
+
+#### ->Start and Enable Apache
+```
+sudo systemctl start apache2
+sudo systemctl enable apache2
+```
+
 ![image](https://github.com/user-attachments/assets/20e7231a-5941-4c77-9658-4826a1e79d96)
 
 ### 6. Adding Virtual private gateway and attach it with this VPC:-
