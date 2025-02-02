@@ -41,7 +41,7 @@
 ### 6. Adding Virtual private gateway and attach it with this VPC:-
 ![image](https://github.com/user-attachments/assets/a75f002d-60bc-47c9-a498-727d12de02fe)
 
---> edit route table of private subnet :-
+--> edit routes in route tables of private subnet :-
 ![image](https://github.com/user-attachments/assets/39f13e5b-0e86-4ff9-98ab-c584dee71df2)
 
 
